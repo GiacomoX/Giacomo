@@ -26,7 +26,7 @@ HTML
             <a href="#contacto">Contacto</a>
         </nav>
         <div class="contenedor head">
-            <h1 class="titulo">Preparate para un mundo nu</h1>
+            <h1 class="titulo">Adentrate en el Mundo d ela Informatica</h1>
             <p class="copy">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus sint corporis, laudantium dolores at quidem tempore voluptas excepturi vero! Ab, earum? Nobis, earum odit iure sit incidunt culpa quasi asperiores!</p>
         </div>
     </header>
